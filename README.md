@@ -6,4 +6,4 @@
 
 📫 Bana ulaş: rootnorth@proton.me
 
-https://tryhackme.com/img/logo/THMlogo-gray_scale.png
+![TryHackMe Logo](https://tryhackme.com/img/logo/THMlogo-gray_scale.png)
