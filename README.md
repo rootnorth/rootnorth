@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben North (rootnorth)
 
 💻 Siber güvenlik, ağ güvenliği ve Python ile ilgileniyorum  
-🔍 TryHackMe ve CTF platformlarında aktifim. THM 2992 puanım var, CTF'de ise 17 proje bitirdim.
+🔍 TryHackMe ve CTF platformlarında aktifim. THM 3000 puanım var, CTF'de ise 17 proje bitirdim.
 🎯 Amacım: Siber Güvenlik Uzmanı
 
 🏆 Ödüller & Başarılar
