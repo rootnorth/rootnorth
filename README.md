@@ -4,6 +4,11 @@
 🔍 TryHackMe ve CTF platformlarında aktifim. THM 1992 puanım var, CTF'de ise 47 proje bitirdim.
 🎯 Amacım: Siber Güvenlik Uzmanı
 
+🏆 Ödüller & Başarılar
+
+- 🥇 **Redscale CTF Birincisi**
+- 🎯 **TryHackMe Top 10,000 Kullanıcısı** (2024)
+
 📫 Bana ulaş: rootnorth@proton.me
 
 ![TryHackMe Logo](https://tryhackme.com/img/logo/THMlogo-gray_scale.png)
