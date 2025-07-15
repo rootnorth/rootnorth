@@ -6,4 +6,4 @@
 
 📫 Bana ulaş: rootnorth@proton.me
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4507984" style='border:none;'></iframe>
+https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4507984
