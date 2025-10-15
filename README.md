@@ -17,7 +17,8 @@
 
 **- 🔑 **Solara Bypass Bugfix ve Catching** (2023)
 
-- 📫 Bana ulaş: 
+- 📫 Bana ulaş:
+  
 **rootnorth@proton.me**
   
 **rootnorth@icloud.com**
